@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vau:home|Door43 (vau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vau|d43-vau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vau/archive/master.zip|d43-vau.zip]]
+
+**Recent Changes**
+{{changes>ns = vau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vau|Ethnologue data]]
+
